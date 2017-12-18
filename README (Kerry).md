@@ -8,12 +8,12 @@ I built a small version of the classic “Pong” game as my way of paying tribu
 
 ## Component Parts
 
-	•	-an Arduino Uno connected to the small breadboard and to my computer through a cable. 
-	•	-A 0.96” Color OLED Display connected to the small breadboard and the Arduino. 
-	•	-A small breadboard  connected to the Arduino Uno. 
-	•	-Two arcade buttons connected to the small breadboard, to the OLED Display and the Arduino Uno. 
-	•	-made-from-scratch white wires.  
-	•	-A small arcade machine made out of black chip-board and glue. 
+	•	An Arduino Uno connected to the small breadboard and to my computer. 
+	•	A 0.96” Color OLED Display connected to the small breadboard and the Arduino. 
+	•	A small breadboard  connected to the Arduino Uno. 
+	•	Two arcade buttons connected to the small breadboard, to the OLED Display and the Arduino Uno. 
+	•	Made-from-scratch white wires.  
+	•	A small arcade machine made out of black chip-board and glue. 
 	
 	(see in pictures)
   
